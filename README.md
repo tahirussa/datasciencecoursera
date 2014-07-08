@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-Data Science Toolbox
+This is a sample respository according to the requirement of assignment.
